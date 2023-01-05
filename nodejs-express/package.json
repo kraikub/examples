@@ -1,0 +1,13 @@
+{
+  "name": "example-nodejs-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "axios": "^1.2.2",
+    "express": "^4.18.2"
+  }
+}
